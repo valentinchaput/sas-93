@@ -13,7 +13,7 @@ title: Contactez S.A.S 93
         <form action="http://formspree.io/am.mansouri@gmail.com" method="POST">
           <div class="form-group">
             <label for="InputNom">Votre nom</label>
-            <input type="nom" class="form-control" placeholder="Matthieu Vasseur">
+            <input type="text" name="name" class="form-control" placeholder="Matthieu Vasseur">
           </div>
           <div class="form-group">
             <div class="row">
@@ -28,7 +28,7 @@ title: Contactez S.A.S 93
               </div>
               <div class="col-xs-12 col-sm-6">
                 <label for="InputStructure">Votre structure (facultatif)</label>
-                <input type="structure" class="form-control" placeholder="Conseil Général du 93">
+                <input type="text" name="structure" class="form-control" placeholder="Conseil Général du 93">
               </div>
             </div>
           </div>
@@ -36,7 +36,7 @@ title: Contactez S.A.S 93
             <div class="row">
               <div class="col-xs-12 col-sm-6">
                 <label for="InputTelephone">Votre téléphone</label>
-                <input type="telephone" class="form-control" placeholder="01 23 45 67 89">
+                <input type="text" name="telephone" class="form-control" placeholder="01 23 45 67 89">
               </div>
               <div class="col-xs-12 col-sm-6">
                 <label for="InputEmail">Votre email</label>
@@ -46,10 +46,11 @@ title: Contactez S.A.S 93
           </div>
           <div class="form-group">
             <label for="InputMessage">Votre message</label>
-            <textarea type="message" class="form-control" rows="6" placeholder="Merci de détailler votre situation afin que nous y répondions au mieux"></textarea>
+            <textarea type="text" name="message" class="form-control" rows="6" placeholder="Merci de détailler votre situation afin que nous y répondions au mieux"></textarea>
           </div>
           <div class="form-group text-center">
-            <button type="submit" class="btn btn-danger" id="btn-submit">Envoyer</button>
+            <input type="submit" value="Envoyer" class="btn btn-danger" id="btn-submit">
+            <!-- <button type="submit" class="btn btn-danger" id="btn-submit">Envoyer</button> -->
           </div>
         </form>
       </div>
