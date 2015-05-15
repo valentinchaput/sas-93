@@ -1,0 +1,35 @@
+// Forme des trois boutons de la homepage
+.btn-choice {
+  height: 260px;
+  width: 260px;
+  border-radius: 50%;
+  color: white;
+  font-size: 24px;
+    &:hover {
+  font-size: 25px;
+  }
+}
+
+// Forme et couleurs des boutons violets
+#btn-purple {
+  background: rgba(85, 62, 130, 0.9);
+  color: white;
+  horizontal-padding: 10px;
+  border-radius: 25px;
+    &:hover {
+  background: rgba(85, 62, 130, 1);
+  }
+}
+
+#btn-orange {
+  background: rgba(228, 126, 48, 0.9);
+    &:hover {
+  background: rgba(228, 126, 48, 1);
+  color: white;
+  font-size: 25px;
+  }
+}
+
+#btn-submit {
+  border-radius: 25px;
+}
