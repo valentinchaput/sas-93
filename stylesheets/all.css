@@ -8919,7 +8919,7 @@ button.close {
 /* -------------------------------------
  * SCSS code
  * ------------------------------------- */
-/* line 38, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+/* line 38, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
 .navbar-wagon {
   background: white;
   font-family: "Montserrat", 400, "sans-serif";
@@ -8930,7 +8930,7 @@ button.close {
   border-bottom: 1px solid #afafaf;
   min-height: 0;
   transition: background 0.4s ease; }
-  /* line 49, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 49, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > a,
   .navbar-wagon .navbar-nav > .open > a,
   .navbar-wagon .navbar-nav > li > a:focus,
@@ -8945,19 +8945,19 @@ button.close {
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     transition: all 0.3s ease; }
-  /* line 65, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 65, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > a:hover,
   .navbar-wagon .navbar-nav > .open > a:hover {
     color: #553e82;
     background-color: transparent; }
-  /* line 71, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 71, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand,
   .navbar-wagon .navbar-brand:hover {
     outline: none;
     color: black;
     padding-top: 5px;
     padding-bottom: 5px; }
-  /* line 79, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 79, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > a.btn {
     line-height: 50px;
     padding: 0 10px;
@@ -8967,30 +8967,30 @@ button.close {
     font-weight: bold;
     background-color: rgba(85, 62, 130, 0.9);
     font-size: 15px; }
-    /* line 88, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+    /* line 88, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon .navbar-nav > li > a.btn:hover {
       background-color: #553e82; }
-  /* line 93, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 93, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand img, .navbar-wagon .navbar-brand svg {
     height: 75px;
     padding: 0px; }
-  /* line 98, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 98, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .img-avatar {
     border: 2px solid white;
     box-shadow: 0 0 2px #c8c8c8;
     height: 71px;
     margin-right: 10px;
     border-radius: 50%; }
-  /* line 106, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 106, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-toggle {
     border-color: #dddddd;
     width: 45px;
     background: transparent; }
-  /* line 112, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 112, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > .dropdown-menu {
     border-radius: 0;
     margin-top: 10px; }
-  /* line 117, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 117, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > .dropdown-menu:before {
     position: absolute;
     background: white;
@@ -9010,10 +9010,10 @@ button.close {
  * Navbar profile picture
  * ------------------------------------- */
 @media screen and (max-width: 768px) {
-  /* line 140, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 140, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand img, .navbar-wagon .navbar-brand svg {
     height: 50px; }
-  /* line 143, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_navbar.css.scss */
+  /* line 143, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand, .navbar-wagon .navbar-brand:hover {
     display: block;
     color: black;
@@ -9024,48 +9024,48 @@ button.close {
  * These are examples of utilities classes
  * Feel free to change them and create your own
  * ------------------------------------- */
-/* line 7, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 7, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .padded {
   padding-top: 3em;
   padding-bottom: 3em; }
 
-/* line 12, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 12, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .padded-small {
   padding-top: 1em;
   padding-bottom: 1em; }
 
-/* line 17, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 17, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .bg-purple {
   background: rgba(85, 62, 130, 0.9);
   color: white; }
 
-/* line 22, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 22, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 h2 {
   margin-top: 0px; }
 
-/* line 26, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 26, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 h3 {
   margin-top: 0px;
   line-height: 1.15; }
 
-/* line 31, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 31, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 a {
   color: rgba(85, 62, 130, 0.9); }
-  /* line 33, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+  /* line 33, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
   a:hover {
     color: #553e82; }
 
-/* line 39, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 39, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 html {
   position: relative;
   min-height: 100%; }
 
-/* line 43, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 43, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px; }
 
-/* line 47, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 47, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .footer {
   position: absolute;
   bottom: 0;
@@ -9073,12 +9073,12 @@ body {
   /* Set the fixed height of the footer here */
   height: 35px; }
 
-/* line 57, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 57, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #footer a {
   color: white;
   text-decoration: underline; }
 
-/* line 64, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 64, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .card {
   height: 280px;
   width: 280px;
@@ -9088,77 +9088,77 @@ body {
   padding-right: 0.5em;
   margin: auto; }
 
-/* line 74, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 74, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .card-title {
   height: 100px;
   padding-top: 40px;
   padding-left: 0.5em;
   font-size: 24px; }
 
-/* line 82, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 82, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-orange {
   background: #E47E30;
   font-size: 17px; }
 
-/* line 87, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 87, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-title-orange {
   height: 90px;
   padding-top: 20px;
   padding-left: 0.5em;
   font-size: 24px; }
 
-/* line 95, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 95, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-red {
   background: #E73434;
   font-size: 20px; }
 
-/* line 101, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 101, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-blue {
   background: #2381D0;
   font-size: 19px; }
 
-/* line 106, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/layout/_utilities.css.scss */
+/* line 106, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-title-blue {
   height: 90px;
   padding-top: 30px;
   padding-left: 0.5em;
   font-size: 24px; }
 
-/* line 2, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/components/_button.css.scss */
+/* line 2, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/components/_button.css.scss */
 .btn-choice {
   height: 260px;
   width: 260px;
   border-radius: 50%;
   color: white;
   font-size: 24px; }
-  /* line 8, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/components/_button.css.scss */
+  /* line 8, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/components/_button.css.scss */
   .btn-choice:hover {
     font-size: 25px; }
 
-/* line 14, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/components/_button.css.scss */
+/* line 14, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/components/_button.css.scss */
 #btn-purple {
   background: rgba(85, 62, 130, 0.9);
   color: white;
   horizontal-padding: 10px;
   border-radius: 25px; }
-  /* line 19, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/components/_button.css.scss */
+  /* line 19, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/components/_button.css.scss */
   #btn-purple:hover {
     background: #553e82; }
 
-/* line 24, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/components/_button.css.scss */
+/* line 24, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/components/_button.css.scss */
 #btn-orange {
   background: rgba(228, 126, 48, 0.9); }
-  /* line 26, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/components/_button.css.scss */
+  /* line 26, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/components/_button.css.scss */
   #btn-orange:hover {
     background: #e47e30;
     color: white;
     font-size: 25px; }
 
-/* line 33, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/components/_button.css.scss */
+/* line 33, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/components/_button.css.scss */
 #btn-submit {
   border-radius: 25px; }
 
-/* line 1, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/pages/_home.css.scss */
+/* line 1, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/pages/_home.css.scss */
 #banner {
   background-image: url("../images/pantin.jpg");
   background-size: cover;
@@ -9184,7 +9184,7 @@ justin@justinaguilar.com
 slideDown
 ==============================================
 */
-/* line 23, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 23, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideDown {
   animation-name: slideDown;
   -webkit-animation-name: slideDown;
@@ -9225,7 +9225,7 @@ slideDown
 slideUp
 ==============================================
 */
-/* line 85, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 85, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideUp {
   animation-name: slideUp;
   -webkit-animation-name: slideUp;
@@ -9266,7 +9266,7 @@ slideUp
 slideLeft
 ==============================================
 */
-/* line 147, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 147, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideLeft {
   animation-name: slideLeft;
   -webkit-animation-name: slideLeft;
@@ -9307,7 +9307,7 @@ slideLeft
 slideRight
 ==============================================
 */
-/* line 209, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 209, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideRight {
   animation-name: slideRight;
   -webkit-animation-name: slideRight;
@@ -9348,7 +9348,7 @@ slideRight
 slideExpandUp
 ==============================================
 */
-/* line 271, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 271, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideExpandUp {
   animation-name: slideExpandUp;
   -webkit-animation-name: slideExpandUp;
@@ -9401,7 +9401,7 @@ slideExpandUp
 expandUp
 ==============================================
 */
-/* line 351, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 351, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .expandUp {
   animation-name: expandUp;
   -webkit-animation-name: expandUp;
@@ -9434,7 +9434,7 @@ expandUp
 fadeIn
 ==============================================
 */
-/* line 400, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 400, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .fadeIn {
   animation-name: fadeIn;
   -webkit-animation-name: fadeIn;
@@ -9473,7 +9473,7 @@ fadeIn
 expandOpen
 ==============================================
 */
-/* line 456, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 456, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .expandOpen {
   animation-name: expandOpen;
   -webkit-animation-name: expandOpen;
@@ -9510,7 +9510,7 @@ expandOpen
 bigEntrance
 ==============================================
 */
-/* line 512, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 512, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .bigEntrance {
   animation-name: bigEntrance;
   -webkit-animation-name: bigEntrance;
@@ -9569,7 +9569,7 @@ bigEntrance
 hatch
 ==============================================
 */
-/* line 593, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 593, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .hatch {
   animation-name: hatch;
   -webkit-animation-name: hatch;
@@ -9617,7 +9617,7 @@ hatch
 bounce
 ==============================================
 */
-/* line 666, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 666, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .bounce {
   animation-name: bounce;
   -webkit-animation-name: bounce;
@@ -9660,7 +9660,7 @@ bounce
 pulse
 ==============================================
 */
-/* line 730, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 730, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pulse {
   animation-name: pulse;
   -webkit-animation-name: pulse;
@@ -9694,7 +9694,7 @@ pulse
 floating
 ==============================================
 */
-/* line 777, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 777, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .floating {
   animation-name: floating;
   -webkit-animation-name: floating;
@@ -9722,7 +9722,7 @@ floating
 tossing
 ==============================================
 */
-/* line 818, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 818, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .tossing {
   animation-name: tossing;
   -webkit-animation-name: tossing;
@@ -9750,7 +9750,7 @@ tossing
 pullUp
 ==============================================
 */
-/* line 859, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 859, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pullUp {
   animation-name: pullUp;
   -webkit-animation-name: pullUp;
@@ -9797,7 +9797,7 @@ pullUp
 pullDown
 ==============================================
 */
-/* line 928, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 928, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pullDown {
   animation-name: pullDown;
   -webkit-animation-name: pullDown;
@@ -9844,7 +9844,7 @@ pullDown
 stretchLeft
 ==============================================
 */
-/* line 997, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 997, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .stretchLeft {
   animation-name: stretchLeft;
   -webkit-animation-name: stretchLeft;
@@ -9891,7 +9891,7 @@ stretchLeft
 stretchRight
 ==============================================
 */
-/* line 1066, /Users/valentinchaput/code/valentinchaput/sas93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 1066, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .stretchRight {
   animation-name: stretchRight;
   -webkit-animation-name: stretchRight;
