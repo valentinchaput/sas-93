@@ -9026,51 +9026,50 @@ button.close {
  * ------------------------------------- */
 /* line 7, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .padded-home {
-  padding-top: 6em;
-  padding-bottom: 1em; }
+  padding: 6em 1em 1em 1em; }
 
-/* line 12, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 11, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .padded {
   padding-top: 3em;
   padding-bottom: 3em; }
 
-/* line 17, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 16, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .padded-small {
   padding-top: 1em;
   padding-bottom: 1em; }
 
-/* line 22, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 21, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .bg-purple {
   background: rgba(85, 62, 130, 0.9);
   color: white; }
 
-/* line 27, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 26, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 h2 {
   margin-top: 0px; }
 
-/* line 31, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 30, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 h3 {
   margin-top: 0px;
   line-height: 1.15; }
 
-/* line 36, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 35, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 a {
   color: rgba(85, 62, 130, 0.9); }
-  /* line 38, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+  /* line 37, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
   a:hover {
     color: #553e82; }
 
-/* line 44, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 43, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 html {
   position: relative;
   min-height: 100%; }
 
-/* line 48, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 47, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px; }
 
-/* line 52, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 51, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .footer {
   position: absolute;
   bottom: 0;
@@ -9078,12 +9077,12 @@ body {
   /* Set the fixed height of the footer here */
   height: 35px; }
 
-/* line 62, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 61, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #footer a {
   color: white;
   text-decoration: underline; }
 
-/* line 69, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 68, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .card {
   height: 280px;
   width: 280px;
@@ -9093,36 +9092,36 @@ body {
   padding-right: 0.5em;
   margin: auto; }
 
-/* line 79, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 78, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 .card-title {
   height: 100px;
   padding-top: 40px;
   padding-left: 0.5em;
   font-size: 24px; }
 
-/* line 87, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 86, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-orange {
   background: #E47E30;
   font-size: 17px; }
 
-/* line 92, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 91, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-title-orange {
   height: 90px;
   padding-top: 20px;
   padding-left: 0.5em;
   font-size: 24px; }
 
-/* line 100, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 99, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-red {
   background: #E73434;
   font-size: 20px; }
 
-/* line 106, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 105, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-blue {
   background: #2381D0;
   font-size: 19px; }
 
-/* line 111, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
+/* line 110, /Users/valentinchaput/code/valentinchaput/sas-93/source/stylesheets/layout/_utilities.css.scss */
 #card-title-blue {
   height: 90px;
   padding-top: 30px;
